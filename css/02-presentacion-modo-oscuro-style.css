@@ -1,0 +1,32 @@
+* {
+    background-color: #212121;
+    color: #FAFAFA;
+}
+
+h1 {
+    font-size: 120px;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 800;
+}
+
+p {
+    font-size: 48px;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 600;
+}
+
+#color-naranja {
+    color: orange;
+}
+
+#color-verde {
+    color: darkolivegreen;
+}
+
+#color-amarillo {
+    color: sandybrown;
+}
+
+#color-aqua {
+    color: teal;
+}
